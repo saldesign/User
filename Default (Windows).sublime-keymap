@@ -1,0 +1,5 @@
+[
+{ "keys": ["shift+alt+k"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+{ "keys": ["shift+alt+l"], "command": "move_to", "args": {"to": "hardeol", "extend": false} }
+
+]

@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"Color Highlighter",
+		"ColorPicker",
+		"Package Control",
+		"PackageResourceViewer",
+		"Search WordPress Codex or QueryPosts",
+		"WordPress"
+	]
+}
