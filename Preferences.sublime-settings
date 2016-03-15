@@ -1,14 +1,11 @@
 {
+	"bold_folde_labels": true,
 	"color_scheme": "Packages/User/color schemes/Melissa.tmTheme",
-	"font_size": 16,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"tab_size": 2,
-	// Disables horizontal scrolling if enabled.
-	// May be set to true, false, or "auto", where it will be disabled for
-	// source code, and otherwise enabled.
-	"word_wrap": "true",
-	"bold_folde_labels":true
+	"word_wrap": "true"
 }

@@ -1,0 +1,5 @@
+[
+{ "keys": ["command+l"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+{ "keys": ["command+k"], "command": "move_to", "args": {"to": "bol", "extend": false} }
+
+]
