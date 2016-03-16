@@ -1,7 +1,11 @@
 {
 	"bold_folde_labels": true,
 	"color_scheme": "Packages/User/color schemes/Melissa.tmTheme",
+<<<<<<< HEAD
 	"font_size": 15,
+=======
+	"font_size": 13,
+>>>>>>> origin/master
 	"ignored_packages":
 	[
 		"Vintage"
